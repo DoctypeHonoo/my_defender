@@ -60,3 +60,7 @@ Notre jeu n'est malhreuseument pas fonctionnel mais il se trouve que nous avons 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174768544-64a5f7d3-a913-41a9-8b6d-03edcc87d886.png">
 </p>
+Quand à l'intérieur du jeu, nous avons créer notre propre map et nos propres sprites de player.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174769258-e1b86948-4881-4cae-afa2-f36050c66b70.png">
+</p>
