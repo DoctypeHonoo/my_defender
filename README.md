@@ -18,14 +18,13 @@ Le **My_Defender** est un des 4 projets graphique de l'année, avec le My_Hunter
 
 ## Description :
 
-Lors de la réalisation du **My_RPG**, il est demandé d'avoir certaine caractéristiques sur le jeu : 
-- Le joueur doit avoir des statistiques et il doit être possible de les visualiser à l'aide d'un menu
-- Un système de combat doit être implémenté, le résultat du combat doit dépendre des statistiques du joueur et de son adversaire
-- Il devrait y avoir des PNJs dans le jeu
-- Un système de quête, avec au moins une quête, doit être mis en place
-- Le joueur doit avoir un inventaire dans lequel des objets doivent pouvoir être rangé
-- Le joueur doit pouvoir gagner de l'expérience avec les combas qu'il mène
-- Avec assez d'expérience, le joueur doit pouvoir monter de niveau
+Lors de la réalisation du **My_Defender**, il est demandé d'avoir certaine caractéristiques sur le jeu : 
+- Le joueur doit pouvoir construire des tours pour défendre son château
+- Des vagues d'ennemis doivent apparaître régulièrement d'un côté de l'écran
+- Le joueur doit pouvoir acheter des tours et les placer à des endroits prédéfinis sur la map
+- Les tours peuvent être défensive ou attaquante
+- Si un ennemie atteint le château, celui-ci doit subir des dégats
+- Si le château n'a plus de vie, le joueur perd
 
 ---
 
