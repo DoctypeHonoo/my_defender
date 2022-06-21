@@ -40,34 +40,23 @@ Lors de la réalisation du **My_Defender**, il est demandé d'avoir certaine car
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:DoctypeHonoo/my_rpg.git
-$ cd my_rpg
+$ git clone git@github.com:DoctypeHonoo/my_defender.git
+$ cd my_defender
 $ make
 ```
 Le binaire se trouvera alors à la racine du projet, et il vous suffira de le lancer comme ceci : 
 ```bash
-$ ./my_rpg
+$ ./my_defender
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174756029-b3c80e79-a26a-419f-ad66-f43cd7f27ba9.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174766930-1627c5fe-1f1b-4679-901a-2319396aa6c7.png">
 </p>
 
 ---
 
 ## Le Jeu : 
 
-Le jeu que nous avons réalisé est un Pokemon like. Lors du lancement du binaire vous disposez d'un menu et il vous suffit de cliquer sur le bouton *Play* pour lancer, ou *Quit* pour quitter.
+Notre jeu n'est malhreuseument pas fonctionnel mais il se trouve que nous avons la base du jeu, à savoir les monstres qui vont apparaître à droite de l'écran, et la tour à défendre sur la gauche, il nous manque malheureusement le système des tours défensives, sans quoi le jeu ne peut pas fonctionner. Nous disposons d'un menu avec trois boutons au lancement du jeu.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174756708-5995d786-2970-47d9-8b4a-56cc003b2040.png">
-</p>
-Une fois le jeu lancé, le rendu graphique donne ceci : 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174758130-cac31698-199f-4cc1-b1c7-94c66773131e.png">
-</p>
-Le jeu possède un système de collision totalement fonctionnel avec le décor et possède aussi un système de combat. Le premier se déroule dans la maison et haut à gauche de l'écran, quand au deuxième, le combat du boss, se déroule dans la grotte au milieu à droite.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174759264-2d0758bb-c3dd-4a6e-a08e-9900e104f382.png">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174759971-90c6c6dc-6231-4663-8927-0df57ebc7ca0.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174768544-64a5f7d3-a913-41a9-8b6d-03edcc87d886.png">
 </p>
